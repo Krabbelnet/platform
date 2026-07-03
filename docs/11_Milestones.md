@@ -19,3 +19,8 @@
 ✅ Eerste eigen KrabbelNet homepage gebouwd.
 
 De standaard Next.js homepage is vervangen door de eerste versie van de KrabbelNet landing page.
+## 3 juli 2026
+
+✅ Eerste interactieve feature gebouwd
+
+💬 De eerste krabbel kon succesvol worden geplaatst op een profielpagina.
