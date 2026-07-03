@@ -13,3 +13,9 @@
 ✅ Eerste Next.js applicatie draait lokaal
 
 🎉 Project KrabbelNet leeft.
+
+## 3 juli 2026
+
+✅ Eerste eigen KrabbelNet homepage gebouwd.
+
+De standaard Next.js homepage is vervangen door de eerste versie van de KrabbelNet landing page.
