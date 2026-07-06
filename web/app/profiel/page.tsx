@@ -1,3 +1,4 @@
+import { KrabbelCard } from "../../components/profile/KrabbelCard";
 import { KrabbelForm } from "../../components/profile/KrabbelForm";
 import { getKrabbels } from "../../lib/krabbels";
 import { getProfile } from "../../lib/profiles";
@@ -48,10 +49,12 @@ export default async function ProfielPage() {
           <section className="mt-8">
             <div className="space-y-4">
               {krabbels.map((krabbel) => (
-                <div key={krabbel.id} className="rounded-2xl bg-orange-50 p-5">
-                  <p className="font-bold">{krabbel.author_name}</p>
-                  <p>{krabbel.message}</p>
-                </div>
+                <KrabbelCard
+                  key={krabbel.id}
+                  author={krabbel.author_name}
+                  message={krabbel.message}
+                  createdAt={krabbel.created_at}
+                />
               ))}
             </div>
           </section>
