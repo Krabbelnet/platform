@@ -46,3 +46,11 @@ Een krabbel kan nu via de profielpagina worden geplaatst, opgeslagen in de datab
 - ✅ GitHub bijgewerkt
 
 Status: STABIEL
+
+## 6 juli 2026
+
+### Sprint 4 - Ticket #0041
+
+✅ Eerste echte gebruiker succesvol geregistreerd via Supabase Auth.
+
+KrabbelNet ondersteunt nu echte accounts.
