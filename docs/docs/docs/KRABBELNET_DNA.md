@@ -74,3 +74,9 @@ Dit document bevat de ontwerpprincipes en UX-ideeën die KrabbelNet onderscheide
 Elke nieuwe functie moet bijdragen aan het gevoel:
 
 "Het internet mag weer gezellig zijn."
+💛 Animatieprincipes
+Animaties duren maximaal 1 seconde.
+Animaties mogen warmte toevoegen, nooit afleiden.
+Het logo mag één rustige hartslag geven bij binnenkomst.
+Nieuwe content mag zacht verschijnen (fade/slide).
+Geen schreeuwerige of verslavende effecten.
