@@ -80,3 +80,9 @@ Animaties mogen warmte toevoegen, nooit afleiden.
 Het logo mag één rustige hartslag geven bij binnenkomst.
 Nieuwe content mag zacht verschijnen (fade/slide).
 Geen schreeuwerige of verslavende effecten.
+Ik merk trouwens iets leuks: we beginnen een eigen ontwerptaal te ontwikkelen.
+
+🧡 Het logo klopt één keer bij binnenkomst.
+❤️ Het hartje bij "Vriend toevoegen" klopt rustig.
+👋 Begroetingen zijn persoonlijk.
+💬 De interface blijft rustig.
