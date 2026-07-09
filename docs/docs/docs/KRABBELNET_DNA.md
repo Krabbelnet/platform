@@ -86,3 +86,11 @@ Ik merk trouwens iets leuks: we beginnen een eigen ontwerptaal te ontwikkelen.
 ❤️ Het hartje bij "Vriend toevoegen" klopt rustig.
 👋 Begroetingen zijn persoonlijk.
 💬 De interface blijft rustig.
+# KrabbelNet DNA
+
+- Het internet mag weer gezellig zijn.
+- Mensen boven algoritmes.
+- Profielen zijn persoonlijk.
+- Vriendschap is wederzijds.
+- Kleine warme details maken het verschil.
+- Privacy is vanzelfsprekend.
