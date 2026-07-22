@@ -32,3 +32,10 @@
 ⭐ Badges
 🎂 Verjaardagen
 📊 Statistieken
+💡 Ideeën voor later
+
+Polls
+Evenementen
+Communities+
+Thema's
+...
