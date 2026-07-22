@@ -21,3 +21,14 @@
 - Meldingen
 - Privacy-instellingen
 - Mobiele optimalisatie
+🚀 Na lancering (Roadmap)
+
+❤️ Reacties op krabbels
+📌 Krabbel vastzetten
+🔖 Favorieten
+🔄 Krabbels delen
+🎙️ Voiceberichten
+🎞️ GIF's
+⭐ Badges
+🎂 Verjaardagen
+📊 Statistieken
